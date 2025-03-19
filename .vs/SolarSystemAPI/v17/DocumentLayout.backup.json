@@ -1,12 +1,194 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SolarSystem\\SolarSystemAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\services\\planetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\datatransferobjects\\moondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\datatransferobjects\\moondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\datatransferobjects\\planetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\datatransferobjects\\planetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\objects\\moon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\objects\\moon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\services\\moonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\services\\moonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\services\\httpclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\services\\screenoutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\constants\\exceptionmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\constants\\exceptionmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|d:\\solarsystem\\solarsystemapi\\solarsystemapi.console\\domain\\services\\interfaces\\ioutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}|SolarSystemAPI.Console\\SolarSystemAPI.ConsoleApp.csproj|solutionrelative:solarsystemapi.console\\domain\\services\\interfaces\\ioutputservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionMessage.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Constants\\ExceptionMessage.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Constants\\ExceptionMessage.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Constants\\ExceptionMessage.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Constants\\ExceptionMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:14:37.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOutputService.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\Interfaces\\IOutputService.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\Services\\Interfaces\\IOutputService.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\Interfaces\\IOutputService.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\Services\\Interfaces\\IOutputService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:07:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Program.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Program.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:04:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScreenOutputService.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\Services\\ScreenOutputService.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAIAwwMIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:57:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetService.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\PlanetService.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\Services\\PlanetService.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\PlanetService.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\Services\\PlanetService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:54:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoonService.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\MoonService.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\Services\\MoonService.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\MoonService.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\Services\\MoonService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:54:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HttpClientService.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\HttpClientService.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\Services\\HttpClientService.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Services\\HttpClientService.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\Services\\HttpClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:54:15.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanetDto.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\DataTransferObjects\\PlanetDto.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\DataTransferObjects\\PlanetDto.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\DataTransferObjects\\PlanetDto.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\DataTransferObjects\\PlanetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:50:36.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoonDto.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\DataTransferObjects\\MoonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:49:48.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moon.cs",
+              "DocumentMoniker": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Objects\\Moon.cs",
+              "RelativeDocumentMoniker": "SolarSystemAPI.Console\\Domain\\Objects\\Moon.cs",
+              "ToolTip": "D:\\SolarSystem\\SolarSystemAPI\\SolarSystemAPI.Console\\Domain\\Objects\\Moon.cs",
+              "RelativeToolTip": "SolarSystemAPI.Console\\Domain\\Objects\\Moon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:41:59.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

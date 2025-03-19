@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemAPI.Console", "SolarSystemAPI.Console\SolarSystemAPI.Console.csproj", "{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarSystemAPI.ConsoleApp", "SolarSystemAPI.Console\SolarSystemAPI.ConsoleApp.csproj", "{D9CE7C73-8000-4D17-B9E3-F40E06188B7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +30,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6FBC1EE-B78F-4E8E-BC9B-D4CFDE131FE5}
 	EndGlobalSection
 EndGlobal

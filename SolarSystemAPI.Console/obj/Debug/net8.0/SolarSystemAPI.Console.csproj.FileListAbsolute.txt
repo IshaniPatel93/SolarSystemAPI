@@ -1,0 +1,6 @@
+D:\SolarSystem\SolarSystemAPI\SolarSystemAPI.Console\obj\Debug\net8.0\SolarSystemAPI.Console.csproj.AssemblyReference.cache
+D:\SolarSystem\SolarSystemAPI\SolarSystemAPI.Console\obj\Debug\net8.0\SolarSystemAPI.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\SolarSystem\SolarSystemAPI\SolarSystemAPI.Console\obj\Debug\net8.0\SolarSystemAPI.Console.AssemblyInfoInputs.cache
+D:\SolarSystem\SolarSystemAPI\SolarSystemAPI.Console\obj\Debug\net8.0\SolarSystemAPI.Console.AssemblyInfo.cs
+D:\SolarSystem\SolarSystemAPI\SolarSystemAPI.Console\obj\Debug\net8.0\SolarSystemAPI.Console.csproj.CoreCompileInputs.cache
+D:\SolarSystem\SolarSystemAPI\SolarSystemAPI.Console\obj\Debug\net8.0\SolarSystemAPI.Console.sourcelink.json

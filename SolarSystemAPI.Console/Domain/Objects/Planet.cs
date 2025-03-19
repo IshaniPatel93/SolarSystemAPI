@@ -1,0 +1,53 @@
+﻿using SolarSystemAPI.ConsoleApp.Domain.DataTransferObjects;
+using System;
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SolarSystemAPI.ConsoleApp.Domain.Objects
+{
+    public class Planet
+    {
+        public string Id { get; set; }
+        public float SemiMajorAxis { get; set; }
+        public ICollection<Moon> Moons { get; set; }
+        public float AverageMoonGravity
+        {
+            get => 0.0f;
+        }
+
+        public Planet(PlanetDto planetDto)
+        {
+            Id = planetDto.Id;
+            SemiMajorAxis = planetDto.SemiMajorAxis;
+            Moons = new Collection<Moon>();
+            if (planetDto.Moons != null)
+            {
+                foreach (MoonDto moonDto in planetDto.Moons)
+                {
+                    Moons.Add(new Moon(moonDto));
+                }
+            }
+        }
+
+        public Boolean HasMoons()
+        {
+            return (Moons != null && Moons.Count > 0);
+        }
+
+        // Calculate the average temperature of the moons of this planet
+        public float AverageMoonTemperature()
+        {
+            if (Moons == null || Moons.Count == 0)
+            {
+                return 0.0f;  // No moons or null, return 0
+            }
+
+            // Calculate the average temperature of all moons
+            float totalTemperature = Moons.Sum(moon => moon.Temperature);
+            return totalTemperature / Moons.Count;
+        }
+    }
+}
